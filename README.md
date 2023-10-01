@@ -65,6 +65,8 @@ qflow tool:
 synthesis using yosys tool  180nm pdk
 placement :graywolf
 ![Screenshot from 2023-10-01 13-46-34](https://github.com/khaja7289/ALU/assets/122887258/ace518bd-0a84-4e1f-a459-ad7d0ee6e11a)
+
+
 after placement layout: magic tool
 ![Screenshot from 2023-10-01 16-08-10](https://github.com/khaja7289/ALU/assets/122887258/f2d3caa8-abb4-4023-8502-d2af7ed059da)
 routing : qrouter
