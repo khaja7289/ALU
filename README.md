@@ -19,16 +19,27 @@ The module includes clock gating logic (enable_clk) to enable or disable clockin
 The ALU supports several operations, as defined by the alu_op input:
 
 ADD: Performs addition of operand_A and operand_B.
+
 SUB: Performs subtraction of operand_A and operand_B.
+
 AND: Performs bitwise AND between operand_A and operand_B.
+
 OR: Performs bitwise OR between operand_A and operand_B.
+
 XOR: Performs bitwise XOR between operand_A and operand_B.
+
 SLL: Performs a left shift of operand_A by a specified number of bits.
+
 SRL: Performs a logical right shift of operand_A by a specified number of bits.
+
 SRA: Performs an arithmetic right shift of operand_A by a specified number of bits.
+
 SLT: Sets the result to 1 if operand_A is less than operand_B; otherwise, sets it to 0.
+
 SEQ: Sets the result to 1 if operand_A is equal to operand_B; otherwise, sets it to 0.
+
 SRNE: Sets the result to 1 if operand_A is not equal to operand_B; otherwise, sets it to 0.
+
 The code includes clock gating logic to minimize power consumption when the ALU is not actively processing an operation. The ALU operations are performed when enable_clk is high.
 
 The ALU also checks for zero, carry, and overflow flags based on the operation being performed. These flags can be used for various purposes, such as conditional branching in a processor's control unit.
