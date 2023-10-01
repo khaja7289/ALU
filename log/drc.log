@@ -1,0 +1,30 @@
+Qflow DRC logfile created on Sunday 01 October 2023 01:02:32 PM IST
+magic -dnull -noconsole  /home/khaja/Desktop/verilog/qflow/64bitalu/layout/run_drc_ALU_64bit.tcl
+
+Magic 8.3 revision 105 - Compiled on Mon, 06 Dec 2021 22:32:27 +0200.
+Starting magic under Tcl interpreter
+Using the terminal as the console.
+Using NULL graphics device.
+Processing system .magicrc file
+Input style lambda=0.10(p): scaleFactor=10, multiplier=1
+Contact size value ignored (using GDS generation rules).
+Contact size value ignored (using GDS generation rules).
+Contact size value ignored (using GDS generation rules).
+Contact size value ignored (using GDS generation rules).
+Contact size value ignored (using GDS generation rules).
+Contact size value ignored (using GDS generation rules).
+Loading "/home/khaja/Desktop/verilog/qflow/64bitalu/layout/run_drc_ALU_64bit.tcl" from command line.
+Reading LEF data from file /usr/share/qflow/tech/osu018/osu018_stdcells.lef.
+This action cannot be undone.
+LEF read, Line 16 (Message): Unknown keyword "OBS" in LEF file; ignoring.
+LEF read, Line 17 (Message): Unknown keyword "PIN" in LEF file; ignoring.
+LEF read: Processed 2941 lines.
+ALU_64bit: 10000 rects
+ALU_64bit: 20000 rects
+ALU_64bit: 30000 rects
+ALU_64bit: 40000 rects
+ALU_64bit: 50000 rects
+ALU_64bit: 60000 rects
+Processing timestamp mismatches: FILL, AND2X2, NOR2X1, NAND2X1, OAI21X1, BUFX2, CLKBUF1, NAND3X1, DFFPOSX1, INVX1, OR2X2, AOI21X1, BUFX4, INVX2, AOI22X1, XNOR2X1, OAI22X1, INVX4, INVX8, MUX2X1, XOR2X1, DFFSR.
+drc = 0
+DRC checking script ended on Sunday 01 October 2023 01:02:38 PM IST
