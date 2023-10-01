@@ -147,7 +147,7 @@ after gds11:
 
 To replicate the project:
 
-1. Clone the repository: `git clone https://github.com/your-username/64-bit-ALU.git`
+1. Clone the repository: `git clone https://github.com/khaja7289/ALU.git`
 2. Follow the instructions in the respective directories (`rtl/`, `verification/`, `qflow/`) to run simulations, synthesize, and perform physical design with Qflow.
 
 ## Contributors
