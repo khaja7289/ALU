@@ -1,0 +1,837 @@
+[
+  {
+   "pins": [
+      [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "D",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "C",
+        "D",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "S",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "S",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "D",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "C",
+        "D",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "Q",
+        "CLK",
+        "D",
+        "gnd",
+        "vdd"
+      ], [
+        "Q",
+        "CLK",
+        "D",
+        "gnd",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "Q",
+        "CLK",
+        "R",
+        "S",
+        "D",
+        "gnd",
+        "vdd"
+      ], [
+        "Q",
+        "CLK",
+        "R",
+        "S",
+        "D",
+        "gnd",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "name": [
+      "ALU_64bit",
+      "ALU_64bit"
+   ],
+   "devices": [
+       [
+         ["NAND2X1", 651],
+         ["OAI21X1", 950],
+         ["AND2X2", 75],
+         ["AOI21X1", 414],
+         ["MUX2X1", 129],
+         ["INVX1", 330],
+         ["AOI22X1", 58],
+         ["OAI22X1", 38],
+         ["NOR2X1", 511],
+         ["INVX2", 94],
+         ["BUFX4", 196],
+         ["OR2X2", 49],
+         ["XNOR2X1", 49],
+         ["INVX8", 19],
+         ["CLKBUF1", 8],
+         ["NAND3X1", 72],
+         ["XOR2X1", 8],
+         ["DFFPOSX1", 64],
+         ["INVX4", 26],
+         ["BUFX2", 67],
+         ["DFFSR", 1 ]
+       ], [
+         ["NAND2X1", 651 ],
+         ["OAI21X1", 950 ],
+         ["AND2X2", 75 ],
+         ["AOI21X1", 414 ],
+         ["MUX2X1", 129 ],
+         ["INVX1", 330 ],
+         ["AOI22X1", 58 ],
+         ["OAI22X1", 38 ],
+         ["NOR2X1", 511 ],
+         ["INVX2", 94 ],
+         ["BUFX4", 196 ],
+         ["OR2X2", 49 ],
+         ["XNOR2X1", 49 ],
+         ["INVX8", 19 ],
+         ["CLKBUF1", 8 ],
+         ["NAND3X1", 72 ],
+         ["XOR2X1", 8 ],
+         ["DFFPOSX1", 64 ],
+         ["INVX4", 26 ],
+         ["BUFX2", 67 ],
+         ["DFFSR", 1 ]
+       ]
+   ],
+   "nets": [
+    3945,
+    3945
+   ],
+   "badnets": [
+   ],
+   "badelements": [
+   ],
+   "pins": [
+      [
+        "reset",
+        "carry_flag",
+        "overflow_flag",
+        "result[0]",
+        "result[1]",
+        "result[4]",
+        "result[5]",
+        "result[8]",
+        "result[9]",
+        "result[10]",
+        "result[16]",
+        "result[11]",
+        "result[17]",
+        "result[18]",
+        "result[19]",
+        "result[22]",
+        "result[26]",
+        "result[23]",
+        "result[27]",
+        "result[25]",
+        "result[12]",
+        "result[21]",
+        "result[54]",
+        "result[41]",
+        "result[30]",
+        "result[29]",
+        "result[14]",
+        "result[20]",
+        "result[40]",
+        "result[7]",
+        "result[36]",
+        "result[52]",
+        "result[24]",
+        "result[28]",
+        "result[38]",
+        "result[2]",
+        "result[59]",
+        "result[61]",
+        "result[63]",
+        "result[13]",
+        "result[15]",
+        "result[32]",
+        "result[34]",
+        "result[39]",
+        "result[44]",
+        "result[46]",
+        "result[42]",
+        "result[48]",
+        "result[50]",
+        "result[3]",
+        "result[55]",
+        "result[58]",
+        "result[60]",
+        "result[62]",
+        "result[6]",
+        "result[31]",
+        "result[35]",
+        "result[33]",
+        "result[37]",
+        "result[45]",
+        "result[47]",
+        "result[49]",
+        "result[43]",
+        "result[51]",
+        "result[53]",
+        "result[56]",
+        "result[57]",
+        "zero_flag",
+        "operand_B[3]",
+        "operand_B[2]",
+        "operand_B[4]",
+        "operand_B[1]",
+        "clk",
+        "operand_B[5]",
+        "operand_A[29]",
+        "operand_A[7]",
+        "operand_A[14]",
+        "operand_A[63]",
+        "operand_B[28]",
+        "operand_A[28]",
+        "operand_A[23]",
+        "operand_A[19]",
+        "operand_B[19]",
+        "operand_A[16]",
+        "operand_A[3]",
+        "operand_A[6]",
+        "operand_A[12]",
+        "operand_B[10]",
+        "operand_A[8]",
+        "operand_B[26]",
+        "operand_A[26]",
+        "operand_A[60]",
+        "operand_A[56]",
+        "operand_A[51]",
+        "operand_A[31]",
+        "operand_A[42]",
+        "operand_A[38]",
+        "operand_B[45]",
+        "operand_B[0]",
+        "operand_A[2]",
+        "operand_A[5]",
+        "operand_A[10]",
+        "operand_A[27]",
+        "operand_B[30]",
+        "operand_B[29]",
+        "operand_B[22]",
+        "operand_B[23]",
+        "operand_B[20]",
+        "operand_B[18]",
+        "operand_A[18]",
+        "operand_B[16]",
+        "operand_B[7]",
+        "operand_B[6]",
+        "operand_A[15]",
+        "operand_B[14]",
+        "operand_B[13]",
+        "operand_B[12]",
+        "operand_B[8]",
+        "operand_A[25]",
+        "operand_B[24]",
+        "alu_op[1]",
+        "operand_A[61]",
+        "operand_A[59]",
+        "operand_A[55]",
+        "operand_A[57]",
+        "operand_A[52]",
+        "operand_A[50]",
+        "operand_A[48]",
+        "operand_A[49]",
+        "operand_A[36]",
+        "operand_A[35]",
+        "operand_A[34]",
+        "operand_A[43]",
+        "operand_A[44]",
+        "operand_A[45]",
+        "operand_A[40]",
+        "operand_A[62]",
+        "operand_B[32]",
+        "operand_B[34]",
+        "operand_B[43]",
+        "operand_B[44]",
+        "operand_B[52]",
+        "operand_B[57]",
+        "operand_A[22]",
+        "operand_B[17]",
+        "operand_A[0]",
+        "operand_B[11]",
+        "operand_B[9]",
+        "operand_B[25]",
+        "alu_op[3]",
+        "alu_op[0]",
+        "operand_A[58]",
+        "operand_A[54]",
+        "operand_A[46]",
+        "operand_A[37]",
+        "operand_A[32]",
+        "operand_A[33]",
+        "operand_A[41]",
+        "operand_B[31]",
+        "operand_B[35]",
+        "operand_B[36]",
+        "operand_B[33]",
+        "operand_B[37]",
+        "operand_B[38]",
+        "operand_B[49]",
+        "operand_B[53]",
+        "operand_B[54]",
+        "operand_B[55]",
+        "operand_B[56]",
+        "operand_B[61]",
+        "operand_A[30]",
+        "operand_A[21]",
+        "operand_B[21]",
+        "operand_A[20]",
+        "operand_A[1]",
+        "operand_A[4]",
+        "operand_A[13]",
+        "operand_A[11]",
+        "operand_A[9]",
+        "operand_B[27]",
+        "operand_A[24]",
+        "operand_A[47]",
+        "operand_A[39]",
+        "vdd",
+        "operand_B[50]",
+        "operand_B[51]",
+        "gnd",
+        "operand_A[17]",
+        "operand_B[15]",
+        "alu_op[2]",
+        "operand_A[53]",
+        "operand_B[39]",
+        "operand_B[41]",
+        "operand_B[42]",
+        "operand_B[46]",
+        "operand_B[47]",
+        "operand_B[40]",
+        "operand_B[48]",
+        "operand_B[58]",
+        "operand_B[59]",
+        "operand_B[60]",
+        "operand_B[62]",
+        "operand_B[63]"
+      ], [
+        "reset",
+        "carry_flag",
+        "overflow_flag",
+        "result[0]",
+        "result[1]",
+        "result[4]",
+        "result[5]",
+        "result[8]",
+        "result[9]",
+        "result[10]",
+        "result[16]",
+        "result[11]",
+        "result[17]",
+        "result[18]",
+        "result[19]",
+        "result[22]",
+        "result[26]",
+        "result[23]",
+        "result[27]",
+        "result[25]",
+        "result[12]",
+        "result[21]",
+        "result[54]",
+        "result[41]",
+        "result[30]",
+        "result[29]",
+        "result[14]",
+        "result[20]",
+        "result[40]",
+        "result[7]",
+        "result[36]",
+        "result[52]",
+        "result[24]",
+        "result[28]",
+        "result[38]",
+        "result[2]",
+        "result[59]",
+        "result[61]",
+        "result[63]",
+        "result[13]",
+        "result[15]",
+        "result[32]",
+        "result[34]",
+        "result[39]",
+        "result[44]",
+        "result[46]",
+        "result[42]",
+        "result[48]",
+        "result[50]",
+        "result[3]",
+        "result[55]",
+        "result[58]",
+        "result[60]",
+        "result[62]",
+        "result[6]",
+        "result[31]",
+        "result[35]",
+        "result[33]",
+        "result[37]",
+        "result[45]",
+        "result[47]",
+        "result[49]",
+        "result[43]",
+        "result[51]",
+        "result[53]",
+        "result[56]",
+        "result[57]",
+        "zero_flag",
+        "operand_B[3]",
+        "operand_B[2]",
+        "operand_B[4]",
+        "operand_B[1]",
+        "clk",
+        "operand_B[5]",
+        "operand_A[29]",
+        "operand_A[7]",
+        "operand_A[14]",
+        "operand_A[63]",
+        "operand_B[28]",
+        "operand_A[28]",
+        "operand_A[23]",
+        "operand_A[19]",
+        "operand_B[19]",
+        "operand_A[16]",
+        "operand_A[3]",
+        "operand_A[6]",
+        "operand_A[12]",
+        "operand_B[10]",
+        "operand_A[8]",
+        "operand_B[26]",
+        "operand_A[26]",
+        "operand_A[60]",
+        "operand_A[56]",
+        "operand_A[51]",
+        "operand_A[31]",
+        "operand_A[42]",
+        "operand_A[38]",
+        "operand_B[45]",
+        "operand_B[0]",
+        "operand_A[2]",
+        "operand_A[5]",
+        "operand_A[10]",
+        "operand_A[27]",
+        "operand_B[30]",
+        "operand_B[29]",
+        "operand_B[22]",
+        "operand_B[23]",
+        "operand_B[20]",
+        "operand_B[18]",
+        "operand_A[18]",
+        "operand_B[16]",
+        "operand_B[7]",
+        "operand_B[6]",
+        "operand_A[15]",
+        "operand_B[14]",
+        "operand_B[13]",
+        "operand_B[12]",
+        "operand_B[8]",
+        "operand_A[25]",
+        "operand_B[24]",
+        "alu_op[1]",
+        "operand_A[61]",
+        "operand_A[59]",
+        "operand_A[55]",
+        "operand_A[57]",
+        "operand_A[52]",
+        "operand_A[50]",
+        "operand_A[48]",
+        "operand_A[49]",
+        "operand_A[36]",
+        "operand_A[35]",
+        "operand_A[34]",
+        "operand_A[43]",
+        "operand_A[44]",
+        "operand_A[45]",
+        "operand_A[40]",
+        "operand_A[62]",
+        "operand_B[32]",
+        "operand_B[34]",
+        "operand_B[43]",
+        "operand_B[44]",
+        "operand_B[52]",
+        "operand_B[57]",
+        "operand_A[22]",
+        "operand_B[17]",
+        "operand_A[0]",
+        "operand_B[11]",
+        "operand_B[9]",
+        "operand_B[25]",
+        "alu_op[3]",
+        "alu_op[0]",
+        "operand_A[58]",
+        "operand_A[54]",
+        "operand_A[46]",
+        "operand_A[37]",
+        "operand_A[32]",
+        "operand_A[33]",
+        "operand_A[41]",
+        "operand_B[31]",
+        "operand_B[35]",
+        "operand_B[36]",
+        "operand_B[33]",
+        "operand_B[37]",
+        "operand_B[38]",
+        "operand_B[49]",
+        "operand_B[53]",
+        "operand_B[54]",
+        "operand_B[55]",
+        "operand_B[56]",
+        "operand_B[61]",
+        "operand_A[30]",
+        "operand_A[21]",
+        "operand_B[21]",
+        "operand_A[20]",
+        "operand_A[1]",
+        "operand_A[4]",
+        "operand_A[13]",
+        "operand_A[11]",
+        "operand_A[9]",
+        "operand_B[27]",
+        "operand_A[24]",
+        "operand_A[47]",
+        "operand_A[39]",
+        "vdd",
+        "operand_B[50]",
+        "operand_B[51]",
+        "gnd",
+        "operand_A[17]",
+        "operand_B[15]",
+        "alu_op[2]",
+        "operand_A[53]",
+        "operand_B[39]",
+        "operand_B[41]",
+        "operand_B[42]",
+        "operand_B[46]",
+        "operand_B[47]",
+        "operand_B[40]",
+        "operand_B[48]",
+        "operand_B[58]",
+        "operand_B[59]",
+        "operand_B[60]",
+        "operand_B[62]",
+        "operand_B[63]"
+      ]
+   ]
+  }
+]
