@@ -151,7 +151,7 @@ after gds11:
 ## Repository Structure
 
 - `rtl/`: Contains the RTL design files.
-- `verification/`: Includes simulation testbenche
+- `verification/`: Includes simulation testbench
 - `qflow/`: Contains Qflow configuration and script files for physical design.
   ## Usage
 
