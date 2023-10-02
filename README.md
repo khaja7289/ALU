@@ -120,6 +120,13 @@ placement :graywolf
 after placement layout: magic tool
 ![Screenshot from 2023-10-01 16-08-10](https://github.com/khaja7289/ALU/assets/122887258/f2d3caa8-abb4-4023-8502-d2af7ed059da)
 
+Computed maximum clock frequency pre route:
+![image](https://github.com/khaja7289/ALU/assets/122887258/f339cbbf-db0b-4e7b-8584-53d195f1b7ea)
+
+Computed maximum clock frequency post route:
+![image](https://github.com/khaja7289/ALU/assets/122887258/0b4c02f6-8d75-413a-a1a1-42d58e1a97c2)
+
+
 
 routing : qrouter
 ![Screenshot from 2023-10-01 12-54-46](https://github.com/khaja7289/ALU/assets/122887258/4dd1cb04-95cd-47d4-b765-df9735f29bee)
