@@ -162,7 +162,8 @@ To replicate the project:
 
 ## Contributors
 
-- Your Name (JUNJURAMPALLI KHAJA)
-- Collaborator Name (khaja7289)
+- Name: JUNJURAMPALLI KHAJA
+- Gmail: kkhaja7289@gmail.com
+
 
 
